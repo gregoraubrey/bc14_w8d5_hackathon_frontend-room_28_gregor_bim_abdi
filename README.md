@@ -1,3 +1,7 @@
+**This was the eighth hackathon we did at School of Code on 20230505. See the instructions we were given below.**
+
+
+
 ## Hackathon Friday 
 
 **Some inspiration** 
