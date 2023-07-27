@@ -1,0 +1,35 @@
+/* https://coolors.co/40798c-c0d6df-93748a-0b1d51-f9b9c3 */
+:root {
+  --cerulean: #40798c;
+  --columbia-blue: #c0d6df;
+  --mountbatten-pink: #93748a;
+  --penn-blue: #0b1d51;
+  --pink: #f9b9c3;
+}
+
+.cart-emoji {
+  font-size: 4rem;
+  margin-right: 10px;
+  text-align: right;
+  color: white;
+}
+
+.cart-icon-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 28px;
+  display: flex;
+  align-items: center;
+}
+
+.cart-icon-wrapper {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.cart-icon-container svg {
+  width: 40px;
+  height: 25px;
+}

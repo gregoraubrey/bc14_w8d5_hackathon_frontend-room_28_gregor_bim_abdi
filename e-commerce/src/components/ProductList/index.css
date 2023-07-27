@@ -1,0 +1,16 @@
+/* https://coolors.co/40798c-c0d6df-93748a-0b1d51-f9b9c3 */
+:root {
+  --cerulean: #40798c;
+  --columbia-blue: #c0d6df;
+  --mountbatten-pink: #93748a;
+  --penn-blue: #0b1d51;
+  --pink: #f9b9c3;
+}
+
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 20px;
+  list-style: none;
+  padding: 0;
+}
